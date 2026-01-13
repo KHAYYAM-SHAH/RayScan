@@ -10,3 +10,11 @@ Short Summary of RayScan app:
 3) Doctor consultation Virtually through Video Call and Chatting Option
 4) Doctors from world wide available for consultation
 5) Feature of finding nearby pharmacy for taking medicines
+
+
+https://github.com/user-attachments/assets/c9ecdf81-711e-489f-bb58-c54f5f196b2e
+
+
+
+
+
