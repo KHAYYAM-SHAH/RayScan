@@ -11,8 +11,14 @@ Short Summary of RayScan app:
 4) Doctors from world wide available for consultation
 5) Feature of finding nearby pharmacy for taking medicines
 
-
+Below is demo vidoe of Admin Pannel
 https://github.com/user-attachments/assets/c9ecdf81-711e-489f-bb58-c54f5f196b2e
+
+Below is attached link of Doctor POV from RayScan App
+https://youtube.com/shorts/WhCM5gHzQnA
+
+Below is attached link of Patient POV from RayScan App
+https://youtube.com/shorts/eAKcLvd2yCQ
 
 
 
